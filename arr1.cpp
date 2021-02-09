@@ -10,12 +10,12 @@ int main()
 
     for(i=0;i<n;i++)
     {
-        cin>>arr[i];
+        cin>>arr[i];//scanning input
     }
 
     for(i=0;i<n;i++)
     {
-        cout<<arr[i]<<"\n";
+        cout<<arr[i]<<"\n";//printing output
     }
     return 0;
 }
